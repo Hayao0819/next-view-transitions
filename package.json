@@ -1,5 +1,5 @@
 {
-  "name": "next-view-transitions",
+  "name": "@hayao/next-view-transitions",
   "version": "0.2.0",
   "type": "module",
   "description": "View Transitions API for Next.js App Router",
@@ -40,5 +40,8 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
-  "packageManager": "pnpm@9.1.2"
+  "packageManager": "pnpm@9.1.2",
+  "publishConfig": {
+    "access": "public"
+  }
 }
