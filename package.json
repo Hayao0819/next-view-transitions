@@ -1,6 +1,6 @@
 {
   "name": "@hayao/next-view-transitions",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "type": "module",
   "description": "View Transitions API for Next.js App Router",
   "main": "./dist/index.js",
